@@ -8,12 +8,12 @@ export const GoogleRoboto = Roboto({
     variable: '--Roboto'
 });
 export const Metropolis_ExtraBold = localFont({
-    src: "../../../public/assets/Metropolis-ExtraBold.woff2",
+    src: "./fonts/Metropolis-ExtraBold.woff2",
     display: 'swap',
     variable: "--Metropolis_ExtraBold",
 });
 export const Metropolis_Regular_1 = localFont({
-    src: "../../../public/assets/Metropolis-Regular_1.woff2",
+    src: "./fonts/Metropolis-Regular_1.woff2",
     display: 'swap',
     variable: "--Metropolis_Regular_1",
 });
