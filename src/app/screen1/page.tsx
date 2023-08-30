@@ -39,7 +39,7 @@ const title3FontFamily = fonts['Metropolis_ExtraBold'];
 </div>
 </div>
 <div id="header-cb97a198f35247b881e817d801354b5b" className={styles["header-cb97a198f35247b881e817d801354b5b"]+ ' header-cb97a198f35247b881e817d801354b5b-orientation'}  >
-<div id="layer-4-9c8ff8533df24e0ba147c3317f834543" className={styles["layer-4-9c8ff8533df24e0ba147c3317f834543"]+ ' layer-4-9c8ff8533df24e0ba147c3317f834543-parentOrientationVariable'+ ' layer-4-9c8ff8533df24e0ba147c3317f834543-parentOrientationVariable'}  >
+<div id="layer-4-9c8ff8533df24e0ba147c3317f834543" className={styles["layer-4-9c8ff8533df24e0ba147c3317f834543"]+ ' layer-4-9c8ff8533df24e0ba147c3317f834543-parentOrientationVariable'}  >
 <div className={styles["imageview-1-e14f48970ed7443496b0c89f940697fb"]} >
     <Image id="imageview-1-e14f48970ed7443496b0c89f940697fb" style={{ objectFit: 'contain' }} fill={true} alt="imageview-1" src='/assets/real.png' />
 </div>
@@ -62,7 +62,7 @@ const title3FontFamily = fonts['Metropolis_ExtraBold'];
     </div>
 </div>
 </div>
-<div id="layer-5-815b3c91c0104febb08df9587767c046" className={styles["layer-5-815b3c91c0104febb08df9587767c046"]+ ' layer-5-815b3c91c0104febb08df9587767c046-parentOrientationVariable'+ ' layer-5-815b3c91c0104febb08df9587767c046-parentOrientationVariable'}  >
+<div id="layer-5-815b3c91c0104febb08df9587767c046" className={styles["layer-5-815b3c91c0104febb08df9587767c046"]+ ' layer-5-815b3c91c0104febb08df9587767c046-parentOrientationVariable'}  >
 
 <div className={titleFont.variable}>
     <div id="text-7-170d6fcc985d4247bdaf4f90c4c2517c" className={styles["text-7-170d6fcc985d4247bdaf4f90c4c2517c"]}  >
@@ -606,7 +606,36 @@ const title3FontFamily = fonts['Metropolis_ExtraBold'];
 </div>
 </div>
 </div>
-<div id="layer-85-aac96ff887a94a1c83731f693230943e" className={styles["layer-85-aac96ff887a94a1c83731f693230943e"]}  ></div>
+<div id="cacard-aac96ff887a94a1c83731f693230943e" className={styles["cacard-aac96ff887a94a1c83731f693230943e"]}  >
+<div id="layer-86-7cded0d8950d467eac4ecb709babe2da" className={styles["layer-86-7cded0d8950d467eac4ecb709babe2da"]}  >
+
+<div className={titleFont.variable}>
+    <div id="text-86-1a90db8a739c40368ceb283d8dc71087" className={styles["text-86-1a90db8a739c40368ceb283d8dc71087"]}  >
+        Getting started is easy
+    </div>
+</div>
+
+<div className={bodyFontFamily.variable}>
+    <div id="text-87-e9dcc9b6fb324702b9dc0f6794c44e39" className={styles["text-87-e9dcc9b6fb324702b9dc0f6794c44e39"]}  >
+        Sign up today and deliver your apps in record time
+    </div>
+</div>
+<div id="layer-88-c1e278b4e2ab4ec988e04cf91d609b92" className={styles["layer-88-c1e278b4e2ab4ec988e04cf91d609b92"]}  >
+
+<div className={titleFont.variable}>
+    <div id="text-88-13b138f41d944eb788cde9c7b8a23648" className={styles["text-88-13b138f41d944eb788cde9c7b8a23648"]}  >
+        Get started now
+    </div>
+</div>
+<span id="7592ab9d9d734882ab58bc243d640fd8" className={styles["icon-2-7592ab9d9d734882ab58bc243d640fd8"]}  >arrow_right_alt</span>
+</div>
+</div>
+<div id="layer-87-da1cd69637b2429cacbf32380c56878f" className={styles["layer-87-da1cd69637b2429cacbf32380c56878f"]}  >
+<div className={styles["imageview-37-1d1e2c4297744f82abe57b69a763be5f"]} >
+    <Image id="imageview-37-1d1e2c4297744f82abe57b69a763be5f" style={{ objectFit: 'contain' }} fill={true} alt="imageview-37" src='/assets/getStarted.png' />
+</div>
+</div>
+</div>
 <div id="footer-5e7db8c99fca4bac9782d88a720f0bfd" className={styles["footer-5e7db8c99fca4bac9782d88a720f0bfd"]}  >
 <div id="layer-77-39e816f4863e41a6ae2ec236c6882eb0" className={styles["layer-77-39e816f4863e41a6ae2ec236c6882eb0"]}  >
 <div id="productfooter-6eb15fe59d2d4e59841e003f56279f0b" className={styles["productfooter-6eb15fe59d2d4e59841e003f56279f0b"]}  >
