@@ -1,4 +1,4 @@
-import Screen1 from './screen1/page';
+import Home from './home/page';
   import { Metadata } from "next";
 
   export const metadata: Metadata = {
@@ -7,7 +7,7 @@ import Screen1 from './screen1/page';
 
   export default function Home() {
     return (
-        <Screen1 />
+        <Home />
     );
   }
   
