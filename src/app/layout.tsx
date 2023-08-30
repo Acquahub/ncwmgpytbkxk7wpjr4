@@ -1,7 +1,4 @@
 import "./globals.css";
-import { Inter } from "next/font/google";
-
-const inter = Inter({ subsets: ["latin"] });
 
 export default function RootLayout({
     children,
@@ -17,7 +14,7 @@ export default function RootLayout({
             rel="stylesheet"
         />
         </head>
-        <body className={inter.className}>
+        <body>
             {children}
         </body>
     </html>
