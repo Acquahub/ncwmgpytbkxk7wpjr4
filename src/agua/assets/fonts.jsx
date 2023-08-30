@@ -7,14 +7,14 @@ export const GoogleRoboto = Roboto({
     weight: '400',
     variable: '--Roboto'
 });
-export const Metropolis_ExtraBold = localFont({
-    src: "./fonts/Metropolis-ExtraBold.woff2",
+export const metropolisextrabold = localFont({
+    src: "./fonts/metropolisextrabold.otf",
     display: 'swap',
-    variable: "--Metropolis_ExtraBold",
+    variable: "--metropolisextrabold",
 });
-export const Metropolis_Regular_1 = localFont({
-    src: "./fonts/Metropolis-Regular_1.woff2",
+export const metropolisregular = localFont({
+    src: "./fonts/metropolisregular.otf",
     display: 'swap',
-    variable: "--Metropolis_Regular_1",
+    variable: "--metropolisregular",
 });
 

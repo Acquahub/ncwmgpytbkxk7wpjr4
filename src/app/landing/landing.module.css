@@ -88,7 +88,7 @@ width: 50px;min-width: 50px;
 }
 .text-3-aea1ea4311a642dbaa395cc3b5990f51{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 font-weight: normal;
 color: #000000;
@@ -99,7 +99,7 @@ width: fit-content;
 }
 .text-4-af9242311f9b437184eed2c8f7c9dff4{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 font-weight: normal;
 color: #000000;
@@ -110,7 +110,7 @@ width: fit-content;
 }
 .text-5-ebcf9317da6b46a8a538cf6c7a0362a6{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 font-weight: normal;
 color: #000000;
@@ -133,7 +133,7 @@ width: fit-content;
 }
 .text-7-170d6fcc985d4247bdaf4f90c4c2517c{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 font-weight: normal;
 color: #000000;
@@ -156,7 +156,7 @@ width: 130px;min-width: 130px;
 }
 .text-8-1062f5c03fb14f958b51cd015c250a5d{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 font-weight: normal;
 
@@ -181,7 +181,7 @@ margin-top: var(--titleMarginTop);
 }
 .text-9-c2492aa602274ed0ae0855f2530e92c2{
      text-align: center;
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-weight: bold;
 
 height: fit-content;
@@ -193,7 +193,7 @@ font-size: var(--titleFontSize);
 }
 .text-10-cbac7b4b7cfa4cb0b0741141371d0744{
      text-align: center;
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-weight: bold;
 
 height: fit-content;
@@ -206,7 +206,7 @@ margin-left: var(--titleEmphasisMarginLeft);
 }
 .subtitle1-f69c99accf104a3585f7cc44b02e638d{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 26px;
@@ -220,7 +220,7 @@ font-size: var(--subtitleFontSize);
 }
 .subtitle2-7dc6b67e701f420f90baca548953050d{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 5px;
@@ -314,7 +314,7 @@ width: fit-content; font-size: 20px;
 }
 .signuptext-459b2ebe81b74f7080db67da71d4dea9{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 font-size: 16pt;
 
 
@@ -380,7 +380,7 @@ min-height: var(--integrationImageSize);
 }
 .clientstext-840a2600af38423c82eeb6ce2c77b240{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 font-size: 18pt;
 
 
@@ -557,7 +557,7 @@ align-self: stretch;
 }
 .text-16-615312194aed43a9879383e1efb95244{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -569,7 +569,7 @@ font-size: var(--title2FontSize);
 }
 .text-17-d1faf6d8cd23414dacb745f7ae55fb71{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -582,7 +582,7 @@ margin-left: var(--title2EmphasisMarginLeft);
 }
 .text-18-5d3b81d8b3b7455282b588612339702b{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 35px;
@@ -632,7 +632,7 @@ width: 60px;min-width: 60px;
 }
 .text-19-47d30c19ea6d4df2ae943b30a5d4f3af{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 margin-top: 20px;
@@ -647,7 +647,7 @@ font-size: var(--title3FontSize);
 }
 .text-20-8f850ac1d94f4b2ab2269b40bec9ae0e{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -685,7 +685,7 @@ width: 60px;min-width: 60px;
 }
 .text-19-acf42409e0084210a72c487855ff7625{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 margin-top: 20px;
@@ -700,7 +700,7 @@ font-size: var(--title3FontSize);
 }
 .text-20-902a29b315764af08cd85a937495d433{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -735,7 +735,7 @@ width: 60px;min-width: 60px;
 }
 .text-19-77ae51e245ac47a7b8d9bfb4032e6465{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 margin-top: 20px;
@@ -750,7 +750,7 @@ font-size: var(--title3FontSize);
 }
 .text-20-2551a4127e044edc953a39ff369e3e01{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -775,7 +775,7 @@ width: 1063px;min-width: 1063px;
 }
 .signuptext-2cf9cfee3c7e43e88dd539734ff0568b{
      text-align: center;
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 font-size: 16pt;
 
 
@@ -805,7 +805,7 @@ align-self: stretch;
 }
 .text-26-2360c16ae00e479fa2ad34a7f12b0209{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 margin-top: 20vh;
@@ -881,7 +881,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-0854b0cd838348f39373e53bca54e55b{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -923,7 +923,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-a72cca75dfc34574974c07a4e3deed06{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -977,7 +977,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-9f87c78d085e47feb8dd9162bfef17d6{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -1014,7 +1014,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-252c4a40b89749b59a57424efe8b7ba9{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -1077,7 +1077,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-1c9de40581e646c091a2a4686264acef{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -1119,7 +1119,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-d6805efc33c04c82b4c989433b249984{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -1173,7 +1173,7 @@ min-height: var(--techCardImageSize);
 }
 .text-29-7fe5b888894a41449b63f89f0f5253e4{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 
@@ -1212,7 +1212,7 @@ align-self: stretch;
 }
 .text-36-82c7aaca9c7549e28dc40c5aacddd5b1{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1224,7 +1224,7 @@ font-size: var(--title2FontSize);
 }
 .text-37-b73868804f6143689fd7e7852dcee260{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1249,7 +1249,7 @@ align-self: stretch;
 }
 .text-35-388f7c94825c40688cc712a8d164926a{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1294,7 +1294,7 @@ width: 580px;min-width: 580px;
 }
 .text-38-dd200d637ba346b19c88a54ce5c43074{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1306,7 +1306,7 @@ font-size: var(--title3FontSize);
 }
 .text-39-52fc3fa1c8fc41e9b43b019e030a0c26{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -1469,7 +1469,7 @@ width: 580px;min-width: 580px;
 }
 .text-38-12825f1dca574e12bb031fbcb6b16425{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1481,7 +1481,7 @@ font-size: var(--title3FontSize);
 }
 .text-39-fba3c055d14d4550994cfca5f70a9df7{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -1528,7 +1528,7 @@ width: 580px;min-width: 580px;
 }
 .text-38-4714dae1a9c34f99a6f3dbbba51b63c1{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1540,7 +1540,7 @@ font-size: var(--title3FontSize);
 }
 .text-39-94284550b1ea4c1e8d710e56429049fc{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -1703,7 +1703,7 @@ width: 580px;min-width: 580px;
 }
 .text-38-6b7a7476bf5d4c25b93d99b3efd43640{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1715,7 +1715,7 @@ font-size: var(--title3FontSize);
 }
 .text-39-03fd65a124e64f1990cb14424a1d4b4b{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -1762,7 +1762,7 @@ width: 580px;min-width: 580px;
 }
 .text-38-a559d691bd684ffeb92d2881256d3373{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1774,7 +1774,7 @@ font-size: var(--title3FontSize);
 }
 .text-39-c7141bf6fb0240f9bc9392732669cd40{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -1872,7 +1872,7 @@ align-self: stretch;
 }
 .text-36-7613cfbaa4794922a355a10ca8d1e9c3{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1884,7 +1884,7 @@ font-size: var(--title2FontSize);
 }
 .text-37-d7d123c0411b44fd82dc8d965cd11dff{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1909,7 +1909,7 @@ align-self: stretch;
 }
 .text-35-4725a9f10a064bf0900d6b4ca9cb0c59{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1957,7 +1957,7 @@ width: 160px;min-width: 160px;
 }
 .text-51-87d8db85f0a24bf7806b85deeec7831d{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -1969,7 +1969,7 @@ font-size: var(--title2FontSize);
 }
 .text-52-a27e40b66b624bc7a00142904637b64c{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 15px;
@@ -1983,7 +1983,7 @@ font-size: var(--bodyFontSize);
 }
 .text-56-8e304bfca7d94ad6abfa288f10d2ec2b{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 
 
@@ -2021,7 +2021,7 @@ width: 160px;min-width: 160px;
 }
 .text-51-f5665e366377478c9ab93b847c70c0dd{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -2033,7 +2033,7 @@ font-size: var(--title2FontSize);
 }
 .text-52-14de32c62f634a928215786a4c6474a2{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 15px;
@@ -2047,7 +2047,7 @@ font-size: var(--bodyFontSize);
 }
 .text-56-9e365c6b7f2e498da48938909c08c208{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 
 
@@ -2082,7 +2082,7 @@ width: 160px;min-width: 160px;
 }
 .text-51-c55ab06f4e594a818dc77512bad4bdff{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 height: fit-content;
@@ -2094,7 +2094,7 @@ font-size: var(--title2FontSize);
 }
 .text-52-8f4ce2e8de654ffc9f87c83b5673fd99{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 15px;
@@ -2108,7 +2108,7 @@ font-size: var(--bodyFontSize);
 }
 .text-56-76260d251432424cbe278c2032f1da12{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 14pt;
 
 
@@ -2154,7 +2154,7 @@ flex-grow: 1;width: unset;
 }
 .text-86-1a90db8a739c40368ceb283d8dc71087{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 
 
 color: #FFFFFF;
@@ -2164,7 +2164,7 @@ align-self: stretch;
 }
 .text-87-e9dcc9b6fb324702b9dc0f6794c44e39{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 30px;
@@ -2190,7 +2190,7 @@ width: 220px;min-width: 220px;
 }
 .text-88-13b138f41d944eb788cde9c7b8a23648{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 16pt;
 
 color: #000000;
@@ -2272,7 +2272,7 @@ width: fit-content;
 }
 .text-59-df79abc788824ba88c5edf087062d052{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 18pt;
 
 
@@ -2284,7 +2284,7 @@ width: fit-content;
 }
 .text-60-ec0e354a46104efda962689213d78cb8{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -2298,7 +2298,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-a81b440551924594af17dcef38e700e9{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2312,7 +2312,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-5ee846d38e6246349e42cf041ef69bce{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2326,7 +2326,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-067f51fa8d3347aca1c356505ed04bc7{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2340,7 +2340,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-79b43befe49f4907a9db838d8a990344{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2366,7 +2366,7 @@ width: fit-content;
 }
 .text-59-534ce541f602444a9e8bb9597f1860e6{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 18pt;
 
 
@@ -2378,7 +2378,7 @@ width: fit-content;
 }
 .text-60-12b34bd125e74ffebf36e81fba0f6de7{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -2392,7 +2392,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-7968b1775f5542558cdbb07d3ff3cba1{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2406,7 +2406,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-c17d1e9870a742cb887942ad23f0b95e{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2420,7 +2420,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-c7d940095dc64c858af31f3aa86c3b7d{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2446,7 +2446,7 @@ width: fit-content;
 }
 .text-59-aac6a63248a9402082e72b7106fd5e99{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 18pt;
 
 
@@ -2458,7 +2458,7 @@ width: fit-content;
 }
 .text-60-7d51e22cd69242289e0c5ef1882e06f5{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -2472,7 +2472,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-f209753b78a8480a9bab05ac72105ff0{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2486,7 +2486,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-222212f6198d4689a0532860118c8fbc{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2500,7 +2500,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-38c46af95bf74792a1acf88790c0cc67{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2526,7 +2526,7 @@ width: fit-content;
 }
 .text-59-f89faac9ec214ac9ae2c3007ba0b6bbf{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 18pt;
 
 
@@ -2538,7 +2538,7 @@ width: fit-content;
 }
 .text-60-6253117046634c0584c497b86bb95fb5{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -2552,7 +2552,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-8459019b0d3747baa0f1ae5f2e6362e5{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2566,7 +2566,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-9bb59b73657b4ccb98ec7fcde40da748{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2580,7 +2580,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-fbea62cdd08a44ac844a2836937f43b5{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2606,7 +2606,7 @@ width: fit-content;
 }
 .text-59-67b72de52a3e41b797a1eb8770d00ffb{
      
-font-family: var(--Metropolis_ExtraBold);
+font-family: var(--metropolisextrabold);
 font-size: 18pt;
 
 
@@ -2618,7 +2618,7 @@ width: fit-content;
 }
 .text-60-766857375b574bbea021990e25baa1cf{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 20px;
@@ -2632,7 +2632,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-78c74a6648fa43bf9524547c3e358bc9{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2646,7 +2646,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-cb6cfe9fd85b48aa939266f0a31577fd{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;
@@ -2660,7 +2660,7 @@ font-size: var(--footerFontSize);
 }
 .text-60-b03e655bbb3f4d9dbcc98e748933244c{
      
-font-family: var(--Metropolis_Regular_1);
+font-family: var(--metropolisregular);
 
 
 margin-top: 10px;

@@ -3,7 +3,7 @@
 	--headerMarginItemSides: 4vw;
 	--titleEmphasisColor: linear-gradient(135deg, rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);
 	--titleColor: #06225d;
-	--titleFont: Metropolis-ExtraBold;
+	--titleFont: metropolisextrabold;
 	--titleFontSize: 80px;
 	--titleText: CI/CD for;
 	--titleEmphasisText: mobile dev teams;
@@ -20,16 +20,16 @@
 	--title2Color: #06225d;
 	--title2ColorEmphasis: linear-gradient(90deg, #D300C5 0%, #FF0069 50%, #FF7A00 100%);
 	--title2FontSize: 60px;
-	--title2FontFamily: Metropolis-ExtraBold;
+	--title2FontFamily: metropolisextrabold;
 	--title2EmphasisMarginLeft: 20px;
 	--subtitleCenteredMarginSides: 380px;
 	--subtitleCenteredFontSize: 18px;
 	--title3Color: #06225d;
 	--title3FontSize: 30px;
-	--title3FontFamily: Metropolis-ExtraBold;
+	--title3FontFamily: metropolisextrabold;
 	--bodyFontColor: #06225d;
 	--bodyFontSize: 17px;
-	--bodyFontFamily: Metropolis-Regular 1;
+	--bodyFontFamily: metropolisregular;
 	--techCard: 200px;
 	--techCardImageSize: 50px;
 	--footerFontSize: 14px;
