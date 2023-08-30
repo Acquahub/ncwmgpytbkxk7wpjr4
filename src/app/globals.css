@@ -22,14 +22,17 @@
 	--title2FontSize: 60px;
 	--title2FontFamily: Metropolis-ExtraBold;
 	--title2EmphasisMarginLeft: 20px;
-	--subtitleCenteredMarginSides: 350px;
+	--subtitleCenteredMarginSides: 380px;
 	--subtitleCenteredFontSize: 18px;
 	--title3Color: #06225d;
 	--title3FontSize: 30px;
 	--title3FontFamily: Metropolis-ExtraBold;
 	--bodyFontColor: #06225d;
 	--bodyFontSize: 17px;
-	--bodyFontFamily: Metropolis-Regular (1);
+	--bodyFontFamily: Metropolis-Regular 1;
+	--techCard: 200px;
+	--techCardImageSize: 50px;
+	--footerFontSize: 14px;
 
 }
 

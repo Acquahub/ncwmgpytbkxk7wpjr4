@@ -12,9 +12,9 @@ export const Metropolis_ExtraBold = localFont({
     display: 'swap',
     variable: "--Metropolis_ExtraBold",
 });
-export const Metropolis_Regular_(1) = localFont({
-    src: "../../../public/assets/Metropolis-Regular (1).woff2",
+export const Metropolis_Regular_1 = localFont({
+    src: "../../../public/assets/Metropolis-Regular_1.woff2",
     display: 'swap',
-    variable: "--Metropolis_Regular_(1)",
+    variable: "--Metropolis_Regular_1",
 });
 
