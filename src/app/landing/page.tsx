@@ -43,7 +43,7 @@ const title3FontFamily = fonts['metropolisextrabold'];
 </div>
 </div>
 <div id="header-cb97a198f35247b881e817d801354b5b" className={styles["header-cb97a198f35247b881e817d801354b5b"]+ ' header-cb97a198f35247b881e817d801354b5b-orientation'}  >
-<div id="layer-4-9c8ff8533df24e0ba147c3317f834543" className={styles["layer-4-9c8ff8533df24e0ba147c3317f834543"]+ ' layer-4-9c8ff8533df24e0ba147c3317f834543-parentOrientationVariable'}  >
+<div id="layer-4-9c8ff8533df24e0ba147c3317f834543" className={styles["layer-4-9c8ff8533df24e0ba147c3317f834543"]}  >
 <div className={styles["imageview-1-e14f48970ed7443496b0c89f940697fb"]} >
     <Image id="imageview-1-e14f48970ed7443496b0c89f940697fb" style={{ objectFit: 'contain' }} fill={true} alt="imageview-1" src='/assets/real.png' />
 </div>
@@ -66,7 +66,7 @@ const title3FontFamily = fonts['metropolisextrabold'];
     </div>
 </div>
 </div>
-<div id="layer-5-815b3c91c0104febb08df9587767c046" className={styles["layer-5-815b3c91c0104febb08df9587767c046"]+ ' layer-5-815b3c91c0104febb08df9587767c046-parentOrientationVariable'}  >
+<div id="layer-5-815b3c91c0104febb08df9587767c046" className={styles["layer-5-815b3c91c0104febb08df9587767c046"]}  >
 
 <div className={titleFont.variable}>
     <div id="text-7-170d6fcc985d4247bdaf4f90c4c2517c" className={styles["text-7-170d6fcc985d4247bdaf4f90c4c2517c"]}  >
